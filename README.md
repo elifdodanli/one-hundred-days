@@ -13,7 +13,7 @@ MasterFabric Information Technology Inc. is dedicated to crafting exceptional so
 * **Quality Assurance:** Master the practice of writing comprehensive tests (Unit, Widget/Component, E2E).
 * **Professional Workflow:** Gain experience in API design and integration, performance optimization, and basic CI/CD processes.
 
-### ## 📝 Notes & Detailed Tracking
+## 📝 Notes & Detailed Tracking
 
 I am using the following Notion page to maintain detailed notes, store code snippets, and track my learning process.
 
