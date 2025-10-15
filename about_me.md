@@ -26,3 +26,10 @@ I’m also part of the **MasterFabric 100-Day Software Developer Internship**, w
 🚗 Dreaming about cars  
 🌸 Learning languages and discovering new ideas  
 🫶 Helping people stay motivated and inspired  
+
+---
+
+## 📬 Let's Connect
+
+* **LinkedIn:** [Elif Dodanlı](https://www.linkedin.com/in/elif-dodanl%C4%B1/)
+* **Medium:** [@elifdodanli](https://medium.com/@elifdodanli)
